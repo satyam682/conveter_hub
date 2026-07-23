@@ -81,8 +81,8 @@ export const SEOHead: React.FC<SEOHeadProps> = ({ tool, siteName = 'ConverterHub
       '@graph': [
         {
           '@type': 'WebSite',
-          '@id': 'https://converterhub.com/#website',
-          'url': 'https://converterhub.com',
+          '@id': 'https://converter-hub5.netlify.app/#website',
+          'url': 'https://converter-hub5.netlify.app',
           'name': siteName,
           'description': '100% Free online utility suite and format converters.'
         },

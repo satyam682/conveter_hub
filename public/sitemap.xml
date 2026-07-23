@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://converterhub.com/</loc>
+    <loc>https://converter-hub5.netlify.app/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/image-converter</loc>
+    <loc>https://converter-hub5.netlify.app/image-converter</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/image-compressor</loc>
+    <loc>https://converter-hub5.netlify.app/image-compressor</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/pdf-suite</loc>
+    <loc>https://converter-hub5.netlify.app/pdf-suite</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/meta-tag-generator</loc>
+    <loc>https://converter-hub5.netlify.app/meta-tag-generator</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/keyword-density</loc>
+    <loc>https://converter-hub5.netlify.app/keyword-density</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/json-formatter</loc>
+    <loc>https://converter-hub5.netlify.app/json-formatter</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/base64-tool</loc>
+    <loc>https://converter-hub5.netlify.app/base64-tool</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/unit-converter</loc>
+    <loc>https://converter-hub5.netlify.app/unit-converter</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://converterhub.com/emi-calculator</loc>
+    <loc>https://converter-hub5.netlify.app/emi-calculator</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>

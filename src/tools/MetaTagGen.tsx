@@ -4,7 +4,7 @@ import { Search, Copy, Check, Globe, Code } from 'lucide-react';
 export const MetaTagGen: React.FC = () => {
   const [title, setTitle] = useState('ConverterHub - 100% Free Online Tools Suite');
   const [description, setDescription] = useState('Convert images, format JSON, generate SEO meta tags, and calculate loan EMIs instantly in your web browser. 100% free & client-side.');
-  const [url, setUrl] = useState('https://converterhub.com');
+  const [url, setUrl] = useState('https://converter-hub5.netlify.app');
   const [siteName, setSiteName] = useState('ConverterHub');
   const [copied, setCopied] = useState(false);
 
